@@ -1,6 +1,7 @@
 # Prototype_Platformer_Unity_Eccentric
- Platformer prototype based on lessons from Eccentric Games course.
- Учебный проект с доработками ввиде домашних заданий.
+ Учебный проект с доработками ввиде домашних заданий. 
+ 
+  Platformer prototype based on lessons from Eccentric Games course.
 
 ![изображение](https://user-images.githubusercontent.com/79563332/149997827-ec70c76b-bb1e-44a3-b830-844656313ed2.png)
 
